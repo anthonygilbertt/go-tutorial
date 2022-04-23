@@ -1,3 +1,3 @@
-module your_domain/hello
+module your_domain/type-conversion
 
 go 1.16
